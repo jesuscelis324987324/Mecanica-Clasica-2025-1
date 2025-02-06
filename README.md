@@ -4,5 +4,5 @@ En este repositorio encontrará los diferentes proyectos producto de la clase de
 
 ## Asociados:
 
-- Jesús Arley Celis - 0000000
+- Jesús Arley Celis - 2221379
 - Juan David Verano Ramírez - 2221093
