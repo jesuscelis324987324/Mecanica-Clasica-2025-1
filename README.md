@@ -1,6 +1,7 @@
-# TareasCursos
-Este repostorio debe clonarse para reportar las tareas y asignaciones
-Dispone de tres directorios: 
-+ DocPDF (para albergar los documentos)
-+ Codigos (para albergar los códigos creados a partir de los ejercicios)
-+ Datos (para albergar los datos y/o resultados)
+# Mecánica Clásica
+En este repositorio encontrará los diferentes proyectos producto de la clase de Mecánica Clásica
+
+
+## Asociados
+Jesús Arley Celis
+Juan David Verano Ramírez - 2221093
